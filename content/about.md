@@ -10,7 +10,7 @@ Hi, I'm John. Here is some relevant (and possibly irrelevant) information about 
 
 - What I love about real-time computer graphics is how it forces our hand, as developers, to reconcile the physics of light transport with tight hardware constraints; resulting in clever ideas, and great engineering. 
 
-- I also share some of my amateur technical art projects on my instagram page. 
+- I share the results of some of my amateur technical art work on this [instagram](https://www.instagram.com/omnnai/?hl=en) page. 
 
 - In my free time I like to boulder or read. My favorite book is William Gaddis' _The Recognitions_. 
 
