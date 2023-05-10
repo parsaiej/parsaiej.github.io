@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John Parsaie</title>
+    <link>https://parsaiej.github.io/</link>
+    <description>Recent content on John Parsaie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://parsaiej.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://parsaiej.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://parsaiej.github.io/about/</guid>
+      <description>AboutHi, I&amp;rsquo;m John. Here is some relevant (and possibly irrelevant) information about me:
+I am based in Brooklyn, New York.
+I have an interest in physically based shading, parallel algorithms, visual effects, and technical art.
+I am currently a Senior Graphics Engineer at Unity Technologies, working on the High-Definition Render Pipeline.
+What I love about real-time computer graphics is how it forces us to reconcile our observations of light, materials, and geometry with tight hardware constraints; resulting in clever ideas, and great engineering.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://parsaiej.github.io/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://parsaiej.github.io/posts/</guid>
+      <description>There is nothing here yet.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://parsaiej.github.io/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://parsaiej.github.io/resume/</guid>
+      <description>. PreviousNext &amp;nbsp; &amp;nbsp;/ [pdf]View the PDF file here.</description>
+    </item>
+    
+  </channel>
+</rss>
