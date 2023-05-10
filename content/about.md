@@ -14,4 +14,6 @@ Hi, I'm John. Here is some relevant (and possibly irrelevant) information about 
 
 - In my free time I like to boulder or read. My favorite book is William Gaddis' _The Recognitions_. 
 
-- If you would like to reach out, you can contact me directly at parsaiej@gmail.com
+- Here is my [resume]( {{< relref "resume" >}}) and a [reel](https://vimeo.com/manage/videos/825340361) of some stuff I have worked on. 
+
+- Otherwise if you would like to reach out, you can contact me directly at parsaiej@gmail.com

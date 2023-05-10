@@ -1,6 +1,7 @@
 baseurl = "https://parsaiej.github.io"
 title = "John Parsaie"
-theme = "hugo-coder"
+theme = ["hugo-embed-pdf-shortcode", "hugo-coder"]
+enableInlineShortcodes = true
 languagecode = "en"
 defaultcontentlanguage = "en"
 
