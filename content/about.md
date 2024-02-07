@@ -6,7 +6,7 @@ Hi, I'm John. Here is some relevant (and possibly irrelevant) information about 
 
 - I have an interest in physically based shading, parallel algorithms, visual effects, and technical art. 
 
-- I am currently a Senior Graphics Engineer at Unity Technologies, working on the High-Definition Render Pipeline. 
+- I am currently a Staff Graphics Engineer at Unity Technologies. 
 
 - What I love about real-time computer graphics is how it forces us to reconcile our observations of light, materials, and geometry with tight hardware constraints; resulting in clever ideas, and great engineering. 
 

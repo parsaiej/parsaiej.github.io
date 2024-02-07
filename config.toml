@@ -14,7 +14,7 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
   author = "John Parsaie"
-  info = "Senior Graphics Engineer at Unity"
+  info = "Staff Graphics Engineer at Unity"
   description = "John Parsaie's personal website"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
