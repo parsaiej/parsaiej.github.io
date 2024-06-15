@@ -4,9 +4,9 @@ Hi, I'm John. Here is some relevant (and possibly irrelevant) information about 
 
 - I am based in Brooklyn, New York.
 
-- I have an interest in physically based shading, parallel algorithms, visual effects, and technical art. 
+- I have an interest in physically based shading, high-performance parallel algorithms, digital humans, and visual effects. 
 
-- I am currently a Staff Graphics Engineer at Unity Technologies. 
+- I am currently a Sr. Staff Graphics Engineer at Qualcomm's Snapdragon Studio, with over 8 years of prior rendering experience at Unity Technologies. 
 
 - What I love about real-time computer graphics is how it forces us to reconcile our observations of light, materials, and geometry with tight hardware constraints; resulting in clever ideas, and great engineering.
 
@@ -16,6 +16,6 @@ Hi, I'm John. Here is some relevant (and possibly irrelevant) information about 
 
 - In my free time I like to boulder or read. My favorite book is William Gaddis' _The Recognitions_. 
 
-- Here is my [resume](../resume.pdf) and a [reel]({{< ref "/reel" >}}) of some stuff I have worked on. 
+- Here is my slightly old [resume](../resume.pdf) and a [reel]({{< ref "/reel" >}}) of some stuff I have worked on. 
 
 - Otherwise if you would like to reach out, you can contact me directly at parsaiej@gmail.com
