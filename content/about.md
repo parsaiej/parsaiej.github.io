@@ -12,9 +12,7 @@ Hi, I'm John. Here is some relevant (and possibly irrelevant) information about 
 
 - You can find me at industry conferences, where I love to share the knowledge I learn along my way. I recently spoke about my work on hair shading and rendering at SIGGRAPH 2022, which you can check out [here](https://advances.realtimerendering.com/s2022/SIGGRAPH2022-Advances-Enemies-Ciardi%20et%20al.pdf). 
 
-- I share the results of some of my amateur technical art work on this [instagram](https://www.instagram.com/omnnai/?hl=en) page. 
-
-- In my free time I like to boulder or read. My favorite book is William Gaddis' _The Recognitions_. 
+- In my free time I like to cook or read. My favorite book is William Gaddis' _The Recognitions_. 
 
 - Here is my slightly old [resume](../resume.pdf) and a [reel]({{< ref "/reel" >}}) of some stuff I have worked on. 
 
